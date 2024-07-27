@@ -1,0 +1,123 @@
+DEVOPS WITH AWS
+
+DAY-1
+-----
+
+What is cloud?
+You can access the data/application via the internet at any time in anyway.
+
+What is cloud computing?
+Cloud Computing is the delivery of computing services like Servers, Storage, Database, 
+Networking and software.
+
+It is the processing of accessing the data or application via the internet
+Ex:- Facebook, Youtube, Instagram
+
+Types of cloud computing
+
+Cloud Computing
+1) Service Model
+-> SAAS (software as a service)
+-> PAAS (platform as a service)
+-> IAAS (infrastructure as a service)
+
+2) Deployment Model
+-> Private Cloud
+-> Public Cloud
+-> Hybrid Cloud
+-> Community Cloud
+
+1) Service Model
+
+software as a service
+Managed by vendor
+-> Applications
+-> Data
+-> Runtime
+-> Middleware
+-> OS
+-> Virtualization
+-> Servers
+-> Storage
+-> Networking
+Ex:-Gmail
+
+platform as a service
+Managed by vendor
+-> Runtime
+-> Middleware
+-> OS
+-> Virtualization
+-> Servers
+-> Storage
+-> Networking
+Ex:- Heroku,Google App Engine,OCP,Godaddy and Microsoft Azure App Service
+
+infrastructure as a service
+Managed by vendor
+-> Virtualization
+-> Servers
+-> Storage
+-> Networking
+Ex:- AWS,AZURE,GCP
+
+2) Deployment Model
+
+Public Cloud
+-> Public Cloud is open to all to store and access information via the internet.
+-> Public clouds are managed by third parties.
+-> In public cloud, security will be less when we compared to private and hybrid.
+
+Private Cloud
+-> A private cloud is also known as an internal cloud or corporate cloud.
+-> It is used by organizations to build and manage their data centers.
+-> In private cloud security will be high.
+
+Hybrid Cloud
+-> Hybrid cloud is the combination of both public cloud and private cloud.
+-> if the services are running on public then it will not have much security.
+-> if the services are running on private then the cloud have high security.
+
+community cloud
+-> it allows multiple organizations to use same cloud to store their data.
+
+Cloud Providers
+AWS,AZURE,GCP,IBM .... etc
+
+what is AWS?
+
+-> AWS is abbreviated as Amazon Web Services.
+-> It is the best cloud provider.
+-> It is the first among all the clouds.
+-> It offers multiple services on different domains.
+-> It is the combination of SAAS,PAAS,IAAS
+-> It is one of the most cloud computing platform. Now a days most
+of the companies are using this cloud because of numerous that allow
+them to store their data easily without the need for a physical space.
+
+why aws is so popular?
+
+-> AWS provides a wide range of cloud computing services that can be used
+to build and run applications.
+-> It can offer 200+ services on multiple domains.
+A group of availability zones is called region.
+-> AWS covers about 31 geographic regions around the world.
+-> AWS provides a wide range of security features to store their applications and data in the cloud.
+-> AWS allows users to select different operating systems, databases and languages
+-> It follows the Pay as you go, Model.
+
+
+Advantages of AWS
+
+-> Automated MultiRegion Backup's
+-> Streamlined Disaster Recovery
+-> Security
+-> Pay as you go pricing
+-> Simple Automated Scheduling
+-> Customization
+-> Third Party API's
+-> Speed and Agility
+-> Excellent customer support
+
+
+---------------------------------------------------------------------------------------------
